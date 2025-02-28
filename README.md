@@ -1,2 +1,3 @@
 # JD_learning_curve
-Individual project to track what affects my learning rate and enjoyment of Just Dance
+My main objective with this project is to measure how fast I can learn different types of Just Dance songs.
+
